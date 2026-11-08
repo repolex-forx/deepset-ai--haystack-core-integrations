@@ -1,0 +1,11 @@
+{
+  "org": "deepset-ai",
+  "repo": "haystack-core-integrations",
+  "versions": [
+    {
+      "commit": "d88734f71069612b119c589372cbc6f767a7f76a",
+      "tag": "",
+      "parsed_at": "2026-11-08T02:46:02.532776+00:00"
+    }
+  ]
+}
